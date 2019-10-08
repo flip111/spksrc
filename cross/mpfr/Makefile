@@ -1,5 +1,5 @@
 PKG_NAME = mpfr
-PKG_VERS = 4.0.1
+PKG_VERS = 4.0.2
 PKG_EXT = tar.xz
 PKG_DIST_NAME = $(PKG_NAME)-$(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = https://www.mpfr.org/mpfr-current
